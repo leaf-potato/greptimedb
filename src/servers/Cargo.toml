@@ -67,7 +67,7 @@ openmetrics-parser = "0.4"
 opensrv-mysql = "0.7.0"
 opentelemetry-proto.workspace = true
 parking_lot = "0.12"
-pgwire = "0.20"
+pgwire = "0.21"
 pin-project = "1.0"
 pipeline.workspace = true
 postgres-types = { version = "0.2", features = ["with-chrono-0_4"] }
@@ -84,7 +84,7 @@ rand.workspace = true
 regex.workspace = true
 reqwest.workspace = true
 rust-embed = { version = "6.6", features = ["debug-embed"] }
-rustls = "0.22"
+rustls = "0.23"
 rustls-pemfile = "2.0"
 rustls-pki-types = "1.0"
 schemars.workspace = true
@@ -97,7 +97,7 @@ sql.workspace = true
 strum.workspace = true
 table.workspace = true
 tokio.workspace = true
-tokio-rustls = "0.25"
+tokio-rustls = "0.26"
 tokio-stream = { workspace = true, features = ["net"] }
 tokio-util.workspace = true
 tonic.workspace = true
